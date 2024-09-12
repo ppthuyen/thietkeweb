@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:brown; text-align:center" > Book a Table</h1> <br>
+    <form style="text-align:center">
+        <fieldset id="Your name">
+            <legend>Your Name</legend>
+                <input type="text" id="your_name" name="your_name"
+                required minlength="20" maxlength="100">
+            </fieldset>
+
+        <fieldset id="sex">
+            <legend>Sex</legend>
+            <input type="radio" value="male" name="sex" checked> Male
+            <input type="radio" value="female" name="sex"> Female
+        </fieldset>
+
+        <fieldset id="size">
+            <legend>Size</legend>
+            <input type="radio" value="2-person-table" name="size" checked> 2-person table
+            <input type="radio" value="2-person-table" name="size" checked> 4-person table
+            <input type="radio" value="2-person-table" name="size" checked> 6-person table
+        </fieldset>
+
+        <fieldset id="location">
+            <legend>Location</legend>
+            <input type="radio" value="indoors" name="location" checked> Indoors
+            <input type="radio" value="outdoors" name="location" checked> Outdoors
+        </fieldset>
+        <button name="book_table">Book table</button>
+        </form>
+</body>
+</html>
