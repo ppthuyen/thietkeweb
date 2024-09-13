@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .form, .img{
+            text-align: left;
+        }
+        .select{
+            margin-bottom: 15px;
+        }
+        .number{
+            width: 50px 
+        }
+ 
+    </style>
+</head>
+<body>
+    <main>
+        <article>
+            <div class="img">
+                <img src="logo.png" width="40%" alt="img">
+            </div>
+            <div class="form">
+                <div>
+                    <table width=500 >
+                        <tr>
+                            <td>                     
+                                <label for="email">Email Address</label> </td>
+                            <td>                   
+                                <input type="email" id ="email"></td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <label for="date">Date of Booking</label>
+                            </td>
+                            <td>
+                                <input type="date" id ="date">
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <label for="">Number of people</label>
+                            </td>
+                            <td>
+                                <input type="text" id ="" class = "number">
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2">
+                                <input type="checkbox" id ="agree" required>
+                                <label for="agree" >I agree to the cancellation policy</label>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2">
+                                <input type="submit" value ="Book now">
+                            </td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>          
+        </article>
+    </main>
+</body>
+</html>
