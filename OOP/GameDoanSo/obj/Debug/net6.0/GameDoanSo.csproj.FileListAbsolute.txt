@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\bin\Debug\net6.0\GameDoanSo.exe
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\bin\Debug\net6.0\GameDoanSo.deps.json
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\bin\Debug\net6.0\GameDoanSo.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\bin\Debug\net6.0\GameDoanSo.dll
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\bin\Debug\net6.0\GameDoanSo.pdb
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.dll
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\refint\GameDoanSo.dll
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.pdb
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\GameDoanSo.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\oop\GameDoanSo\obj\Debug\net6.0\ref\GameDoanSo.dll

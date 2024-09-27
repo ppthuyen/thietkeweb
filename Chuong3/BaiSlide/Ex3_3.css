@@ -1,0 +1,11 @@
+body {text-align: center}
+h3{
+     color:blue; 
+     font: size 16px;
+     font-family: Verdana;}
+img{ 
+    border: 2px solid blue;
+    width: 400px;
+    height: 300px;
+
+}

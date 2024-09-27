@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\bin\Debug\net6.0\bai7.exe
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\bin\Debug\net6.0\bai7.deps.json
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\bin\Debug\net6.0\bai7.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\bin\Debug\net6.0\bai7.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\bin\Debug\net6.0\bai7.pdb
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\refint\bai7.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.pdb
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\bai7.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\bai7\obj\Debug\net6.0\ref\bai7.dll

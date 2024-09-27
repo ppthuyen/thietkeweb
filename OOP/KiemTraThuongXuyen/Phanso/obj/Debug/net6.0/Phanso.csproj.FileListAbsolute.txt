@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\bin\Debug\net6.0\Phanso.exe
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\bin\Debug\net6.0\Phanso.deps.json
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\bin\Debug\net6.0\Phanso.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\bin\Debug\net6.0\Phanso.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\bin\Debug\net6.0\Phanso.pdb
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\refint\Phanso.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.pdb
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\Phanso.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\KiemTraThuongXuyen\Phanso\obj\Debug\net6.0\ref\Phanso.dll

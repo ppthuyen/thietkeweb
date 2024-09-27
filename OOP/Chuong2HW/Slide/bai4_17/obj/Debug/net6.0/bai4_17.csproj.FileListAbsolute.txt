@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\bin\Debug\net6.0\bai4_17.exe
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\bin\Debug\net6.0\bai4_17.deps.json
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\bin\Debug\net6.0\bai4_17.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\bin\Debug\net6.0\bai4_17.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\bin\Debug\net6.0\bai4_17.pdb
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\refint\bai4_17.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.pdb
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\bai4_17.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\Chuong2HW\Slide\bai4_17\obj\Debug\net6.0\ref\bai4_17.dll

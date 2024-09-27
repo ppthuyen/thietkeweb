@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\bin\Debug\net6.0\RuaChen.exe
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\bin\Debug\net6.0\RuaChen.deps.json
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\bin\Debug\net6.0\RuaChen.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\bin\Debug\net6.0\RuaChen.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\bin\Debug\net6.0\RuaChen.pdb
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\refint\RuaChen.dll
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.pdb
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\RuaChen.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\OOP\RuaChen\RuaChen\obj\Debug\net6.0\ref\RuaChen.dll
