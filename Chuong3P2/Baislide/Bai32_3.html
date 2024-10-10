@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+        .container {
+            background-color: #5cb5f5;
+            color: #000045;
+            padding: 20px;
+            border: 1px solid white;
+            display: flex;
+        }
+        .container div {
+            margin-left: 24px;
+        }
+        @media (min-width: 1024px) {
+            .container {
+                justify-content: end;
+            }
+        }
+        @media (min-width: 768px) and (max-width: 1023.999px) {
+            .container {
+                justify-content: space-between;
+            }
+        }
+        @media (max-width: 768px) {
+            .container {
+            flex-direction: column;
+            align-items: center;
+            }
+        }
+    </style>
+<body>
+    <div class="container">
+        <div>Home</div><br>
+        <div>About</div><br>
+        <div>Products</div><br>
+        <div>Contact</div>
+    </div>
+
+
+</body>
+</html>
