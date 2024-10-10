@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\oop\\Chuong3\\Bai1\\Bai1.csproj": {}
+    "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\OOP\\Chuong3\\Bai1\\Bai1.csproj": {}
   },
   "projects": {
-    "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\oop\\Chuong3\\Bai1\\Bai1.csproj": {
+    "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\OOP\\Chuong3\\Bai1\\Bai1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\oop\\Chuong3\\Bai1\\Bai1.csproj",
+        "projectUniqueName": "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\OOP\\Chuong3\\Bai1\\Bai1.csproj",
         "projectName": "Bai1",
-        "projectPath": "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\oop\\Chuong3\\Bai1\\Bai1.csproj",
+        "projectPath": "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\OOP\\Chuong3\\Bai1\\Bai1.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\oop\\Chuong3\\Bai1\\obj\\",
+        "outputPath": "F:\\tailieu\\Nam3\\ThietKeWeb\\thietkeweb\\OOP\\Chuong3\\Bai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

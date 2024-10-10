@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .product{
+            height: 400px; 
+            width: 250px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+            margin: 10px 5px;
+        }
+        .product_img{
+            height: 70%;
+            width: 100%;
+        }
+        .product .content{
+            margin: 15px;
+        }
+        article{
+            display: flex;
+        }
+        @media screen and (max-width: 768px) {
+            article{
+                display: block;
+            }
+            .product{
+                margin: 10px auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <article>
+            <div class = 'product'>
+                <img class = 'product_img' src="https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-256gb.png" alt="">
+                <div class = 'content'>
+                    <p class = 'product_name'>Điện thoại iPhone 6 32GB VN/A (Vàng Đồng) - Hàng Chính Hãng</p>
+                    <p class = 'product_price'>6.199.00 <u>đ</u> <del style="opacity: 0.4;">8.990.000 <u>đ</u></del> <span style = 'color : red'>-31%</span></p>
+                </div>
+            </div>
+            <div class = 'product'>
+                <img class = 'product_img' src="https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-256gb.png" alt="">
+                <div class = 'content'>
+                    <p class = 'product_name'>Điện thoại iPhone 6 32GB VN/A (Vàng Đồng) - Hàng Chính Hãng</p>
+                    <p class = 'product_price'>6.199.00 <u>đ</u> <del style="opacity: 0.4;">8.990.000 <u>đ</u></del> <span style = 'color : red'>-31%</span></p>
+                </div>
+            </div>
+            <div class = 'product'>
+                <img class = 'product_img' src="https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-256gb.png" alt="">
+                <div class = 'content'>
+                    <p class = 'product_name'>Điện thoại iPhone 6 32GB VN/A (Vàng Đồng) - Hàng Chính Hãng</p>
+                    <p class = 'product_price'>6.199.00 <u>đ</u> <del style="opacity: 0.4;">8.990.000 <u>đ</u></del> <span style = 'color : red'>-31%</span></p>
+                </div>
+            </div>
+        </article>
+    </main>
+</body>
+</html>

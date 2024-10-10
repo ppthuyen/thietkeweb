@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .left, .middle, .right {
+            height: 200px;}
+            .left {
+            background-color: darksalmon;
+            float: left;
+            width: 40%;}
+            .middle {
+            background-color:brown;
+            float: left; /*căn lề bên trái*/
+            width: 20%;}
+            .right {
+            background-color: darkseagreen;
+            float: right;
+            width: 40%;}
+            @media only screen and (max-width: 768px) {
+            /*Áp dụng khi màn hình nhỏ hơn 780px*/
+            .left, .right, .middle {
+            float: none;
+            width: 100%;
+            } }
+    </style>
+</head>
+<body>
+    <div class="left">
+        LEFT
+        </div>
+        <div class="middle">
+        MIDDLE
+        </div>
+        <div class="right">
+        RIGHT
+        </div>
+</body>
+</html>
