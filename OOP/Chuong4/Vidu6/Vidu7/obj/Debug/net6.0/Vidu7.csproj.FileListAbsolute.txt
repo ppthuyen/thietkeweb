@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\bin\Debug\net6.0\Vidu7.exe
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\bin\Debug\net6.0\Vidu7.deps.json
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\bin\Debug\net6.0\Vidu7.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\bin\Debug\net6.0\Vidu7.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\bin\Debug\net6.0\Vidu7.pdb
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\refint\Vidu7.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.pdb
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\Vidu7.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Chuong4\Vidu6\Vidu7\obj\Debug\net6.0\ref\Vidu7.dll

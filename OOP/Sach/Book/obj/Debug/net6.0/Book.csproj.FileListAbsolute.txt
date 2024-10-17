@@ -1,0 +1,15 @@
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.csproj.AssemblyReference.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.AssemblyInfoInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.AssemblyInfo.cs
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.csproj.CoreCompileInputs.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\bin\Debug\net6.0\Book.exe
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\bin\Debug\net6.0\Book.deps.json
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\bin\Debug\net6.0\Book.runtimeconfig.json
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\bin\Debug\net6.0\Book.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\bin\Debug\net6.0\Book.pdb
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\refint\Book.dll
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.pdb
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\Book.genruntimeconfig.cache
+F:\tailieu\Nam3\ThietKeWeb\thietkeweb\OOP\Sach\Book\obj\Debug\net6.0\ref\Book.dll
